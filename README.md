@@ -17,6 +17,7 @@ Environnements techniques : Python, R, SQL, PowerBI
 - Développement de modèles prédictifs pour la détection d'anomalies
 - Conception d'ienterfaces utilisateurs dynamiques avecc Dash de Python
 - Gestion de projet, rédaction de rapport & vulgarisation des résultats
+  
 ![Exemple d'équipement : Manifold ](assets/img/Manifold.jpg)
 
 **Data scientist @ Visions (2021 - juillet 2022)**
