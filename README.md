@@ -1,12 +1,12 @@
 # Data Scientist
 
-### Formations
+# Formations
 Master 2 Data science
 
-### Expériences
+# Expériences
 Consultante Data Scientist @ Lincoln
 - Projet 1
 - Projet 2
 
-### Projets Personnels & Universitaire
+# Projets Personnels & Universitaire
 
