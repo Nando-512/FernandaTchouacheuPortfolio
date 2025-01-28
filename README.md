@@ -6,7 +6,6 @@ Environnements techniques : Python, R, SQL, PowerBI
 **Consultante Data Scientist @ Lincoln ( Août 2024 - maintenant)**
 
 *Data scientist @ La Poste*
-
     - Ciblage des clients
     - Mettre en place un modèle de scoring 
     - Analyse statistique des données
