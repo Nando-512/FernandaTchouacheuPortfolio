@@ -3,7 +3,7 @@
 Environnements techniques : Python, R, SQL, PowerBI
 
 # Expérience
-**Consultante Data Scientist @ Lincoln ( Août 2024 - maintenant)**
+**Consultante Data Scientist @ Lincoln ( Août 2024 - En poste)**
 
     Data scientist @ La Poste
     
