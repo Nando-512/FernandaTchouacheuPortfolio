@@ -5,13 +5,13 @@ Environnements techniques : Python, R, SQL, PowerBI
 # Expérience
 **Consultante Data Scientist @ Lincoln ( Août 2024 - maintenant)**
 
-**Data scientist @ La Poste**
-
-    - Ciblage des clients
-    - Mettre en place un modèle de scoring 
-    - Analyse statistique des données
-    - Forage des données dans Dataiku
-    - Déploiement du modèle dans Dataiku
+    **Data scientist @ La Poste**
+    
+        - Ciblage des clients
+        - Mettre en place un modèle de scoring 
+        - Analyse statistique des données
+        - Forage des données dans Dataiku
+        - Déploiement du modèle dans Dataiku
       
 **Data scientist @ TotalEnergies (2023 - 2024)**
 - Extraction des données sur PI VISION
